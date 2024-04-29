@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="75%" src="Cover.png" />
+  <img width="40%" src="Cover.png" />
 </p>
 
 # International Federation of Roblox Racing
